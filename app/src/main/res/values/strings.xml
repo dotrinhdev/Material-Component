@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Material Component</string>
+    <string name="button_label_enabled">PURCHASE</string>
 </resources>
